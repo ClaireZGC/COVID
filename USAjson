@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "id": "01",
-      "properties": { "name": "Alabama","pop":"4,903,185","Abb":"AL" },
+      "properties": { "name": "Alabama","pop":"4903185","Abb":"AL" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -49,7 +49,7 @@
     {
       "type": "Feature",
       "id": "02",
-      "properties": { "name": "Alaska","pop":"731,545","Abb":"AK" },
+      "properties": { "name": "Alaska","pop":"731545","Abb":"AK" },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1289,7 +1289,7 @@
     {
       "type": "Feature",
       "id": "04",
-      "properties": { "name": "Arizona", "pop":"7,278,717","Abb":"AZ"},
+      "properties": { "name": "Arizona", "pop":"7278717","Abb":"AZ"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1333,7 +1333,7 @@
     {
       "type": "Feature",
       "id": "05",
-      "properties": { "name": "Arkansas","pop":"3,017,804","Abb":"AR" },
+      "properties": { "name": "Arkansas","pop":"3017804","Abb":"AR" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1382,7 +1382,7 @@
     {
       "type": "Feature",
       "id": "06",
-      "properties": { "name": "California", "pop":"39,512,223","Abb":"CA" },
+      "properties": { "name": "California", "pop":"39512223","Abb":"CA" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1487,7 +1487,7 @@
     {
       "type": "Feature",
       "id": "08",
-      "properties": { "name": "Colorado" ,"pop":"5,758,736","Abb":"CO"},
+      "properties": { "name": "Colorado" ,"pop":"5758736","Abb":"CO"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1515,7 +1515,7 @@
     {
       "type": "Feature",
       "id": "09",
-      "properties": { "name": "Connecticut", "pop":"3,565,287","Abb":"CT"},
+      "properties": { "name": "Connecticut", "pop":"3565287","Abb":"CT"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1543,7 +1543,7 @@
     {
       "type": "Feature",
       "id": "10",
-      "properties": { "name": "Delaware","pop":"973,764","Abb":"DE" },
+      "properties": { "name": "Delaware","pop":"973764","Abb":"DE" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1568,7 +1568,7 @@
     {
       "type": "Feature",
       "id": "11",
-      "properties": { "name": "District of Columbia" , "pop":"705,749","Abb":"DC"},
+      "properties": { "name": "District of Columbia" , "pop":"705749","Abb":"DC"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1585,7 +1585,7 @@
     {
       "type": "Feature",
       "id": "12",
-      "properties": { "name": "Florida","pop":"21,477,737","Abb":"FL" },
+      "properties": { "name": "Florida","pop":"21477737","Abb":"FL" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1675,7 +1675,7 @@
     {
       "type": "Feature",
       "id": "13",
-      "properties": { "name": "Georgia", "pop":"10,617,423","Abb":"GA" },
+      "properties": { "name": "Georgia", "pop":"10617423","Abb":"GA" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1738,7 +1738,7 @@
     {
       "type": "Feature",
       "id": "150",
-      "properties": { "name": "Hawaii" ,"pop":"1,415,872","Abb":"HI"},
+      "properties": { "name": "Hawaii" ,"pop":"1415872","Abb":"HI"},
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1817,7 +1817,7 @@
     {
       "type": "Feature",
       "id": "16",
-      "properties": { "name": "Idaho", "pop":"1,787,065","Abb":"ID" },
+      "properties": { "name": "Idaho", "pop":"1787065","Abb":"ID" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1895,7 +1895,7 @@
     {
       "type": "Feature",
       "id": "17",
-      "properties": { "name": "Illinois" ,"pop":"12,671,821","Abb":"IL"},
+      "properties": { "name": "Illinois" ,"pop":"12671821","Abb":"IL"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1974,7 +1974,7 @@
     {
       "type": "Feature",
       "id": "18",
-      "properties": { "name": "Indiana","pop":"6,732,219","Abb":"IN" },
+      "properties": { "name": "Indiana","pop":"6732219","Abb":"IN" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2032,7 +2032,7 @@
     {
       "type": "Feature",
       "id": "19",
-      "properties": { "name": "Iowa","pop":"3,155,070","Abb":"IA" },
+      "properties": { "name": "Iowa","pop":"3155070","Abb":"IA" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2094,7 +2094,7 @@
     {
       "type": "Feature",
       "id": "20",
-      "properties": { "name": "Kansas","pop":"2,913,314","Abb":"KS" },
+      "properties": { "name": "Kansas","pop":"2913314","Abb":"KS" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2119,7 +2119,7 @@
     {
       "type": "Feature",
       "id": "21",
-      "properties": { "name": "Kentucky","pop":"4,467,673","Abb":"KY" },
+      "properties": { "name": "Kentucky","pop":"4467673","Abb":"KY" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2206,7 +2206,7 @@
     {
       "type": "Feature",
       "id": "22",
-      "properties": { "name": "Louisiana" ,"pop":"4,648,794","Abb":"LA"},
+      "properties": { "name": "Louisiana" ,"pop":"4648794","Abb":"LA"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2294,7 +2294,7 @@
     {
       "type": "Feature",
       "id": "23",
-      "properties": { "name": "Maine" ,"pop":"1,344,212","Abb":"ME"},
+      "properties": { "name": "Maine" ,"pop":"1344212","Abb":"ME"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2372,7 +2372,7 @@
     {
       "type": "Feature",
       "id": "24",
-      "properties": { "name": "Maryland" ,"pop":"6,045,680","Abb":"MD"},
+      "properties": { "name": "Maryland" ,"pop":"6045680","Abb":"MD"},
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2454,7 +2454,7 @@
     {
       "type": "Feature",
       "id": "25",
-      "properties": { "name": "Massachusetts","pop":"6,892,503","Abb":"MA" },
+      "properties": { "name": "Massachusetts","pop":"6892503","Abb":"MA" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2501,7 +2501,7 @@
     {
       "type": "Feature",
       "id": "26",
-      "properties": { "name": "Michigan" ,"pop":"9,986,857","Abb":"MI"},
+      "properties": { "name": "Michigan" ,"pop":"9986857","Abb":"MI"},
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2679,7 +2679,7 @@
     {
       "type": "Feature",
       "id": "27",
-      "properties": { "name": "Minnesota" ,"pop":"5,639,632","Abb":"MN"},
+      "properties": { "name": "Minnesota" ,"pop":"5639632","Abb":"MN"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2774,7 +2774,7 @@
     {
       "type": "Feature",
       "id": "28",
-      "properties": { "name": "Mississippi" ,"pop":"2,976,149","Abb":"MS"},
+      "properties": { "name": "Mississippi" ,"pop":"2976149","Abb":"MS"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2832,7 +2832,7 @@
     {
       "type": "Feature",
       "id": "29",
-      "properties": { "name": "Missouri" ,"pop":"6,137,428","Abb":"MO"},
+      "properties": { "name": "Missouri" ,"pop":"6137428","Abb":"MO"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2897,7 +2897,7 @@
     {
       "type": "Feature",
       "id": "30",
-      "properties": { "name": "Montana" ,"pop":"1,068,778","Abb":"MT"},
+      "properties": { "name": "Montana" ,"pop":"1068778","Abb":"MT"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2961,7 +2961,7 @@
     {
       "type": "Feature",
       "id": "31",
-      "properties": { "name": "Nebraska", "pop":"1,934,408","Abb":"NE" },
+      "properties": { "name": "Nebraska", "pop":"1934408","Abb":"NE" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3002,7 +3002,7 @@
     {
       "type": "Feature",
       "id": "32",
-      "properties": { "name": "Nevada" ,"pop":"3,080,156","Abb":"NV"},
+      "properties": { "name": "Nevada" ,"pop":"3080156","Abb":"NV"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3035,7 +3035,7 @@
     {
       "type": "Feature",
       "id": "33",
-      "properties": { "name": "New Hampshire","pop":"1,359,711","Abb":"NH" },
+      "properties": { "name": "New Hampshire","pop":"1359711","Abb":"NH" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3075,7 +3075,7 @@
     {
       "type": "Feature",
       "id": "34",
-      "properties": { "name": "New Jersey","pop":"8,882,190","Abb":"NJ" },
+      "properties": { "name": "New Jersey","pop":"8882190","Abb":"NJ" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3119,7 +3119,7 @@
     {
       "type": "Feature",
       "id": "35",
-      "properties": { "name": "New Mexico" ,"pop":"2,096,829","Abb":"NM"},
+      "properties": { "name": "New Mexico" ,"pop":"2096829","Abb":"NM"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3148,7 +3148,7 @@
     {
       "type": "Feature",
       "id": "36",
-      "properties": { "name": "New York", "pop":"19,453,561","Abb":"NY" },
+      "properties": { "name": "New York", "pop":"19453561","Abb":"NY" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3228,7 +3228,7 @@
     {
       "type": "Feature",
       "id": "37",
-      "properties": { "name": "North Carolina" ,"pop":"10,488,084","Abb":"NC" },
+      "properties": { "name": "North Carolina" ,"pop":"10488084","Abb":"NC" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3301,7 +3301,7 @@
     {
       "type": "Feature",
       "id": "38",
-      "properties": { "name": "North Dakota" ,"pop":"762,062","Abb":"ND"},
+      "properties": { "name": "North Dakota" ,"pop":"762062","Abb":"ND"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3329,7 +3329,7 @@
     {
       "type": "Feature",
       "id": "39",
-      "properties": { "name": "Ohio" , "pop":"11,689,100","Abb":"OH"},
+      "properties": { "name": "Ohio" , "pop":"11689100","Abb":"OH"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3388,7 +3388,7 @@
     {
       "type": "Feature",
       "id": "40",
-      "properties": { "name": "Oklahoma" ,"pop":"3,956,971","Abb":"OK"},
+      "properties": { "name": "Oklahoma" ,"pop":"3956971","Abb":"OK"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3445,7 +3445,7 @@
     {
       "type": "Feature",
       "id": "41",
-      "properties": { "name": "Oregon","pop":"4,217,737","Abb":"OR" },
+      "properties": { "name": "Oregon","pop":"4217737","Abb":"OR" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3513,7 +3513,7 @@
     {
       "type": "Feature",
       "id": "42",
-      "properties": { "name": "Pennsylvania", "pop":"12,801,989","Abb":"PA"},
+      "properties": { "name": "Pennsylvania", "pop":"12801989","Abb":"PA"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3558,7 +3558,7 @@
     {
       "type": "Feature",
       "id": "44",
-      "properties": { "name": "Rhode Island","pop":"1,059,361","Abb":"RI" },
+      "properties": { "name": "Rhode Island","pop":"1059361","Abb":"RI" },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3591,7 +3591,7 @@
     {
       "type": "Feature",
       "id": "45",
-      "properties": { "name": "South Carolina" ,"pop":"5,148,714","Abb":"SC"},
+      "properties": { "name": "South Carolina" ,"pop":"5148714","Abb":"SC"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3647,7 +3647,7 @@
     {
       "type": "Feature",
       "id": "46",
-      "properties": { "name": "South Dakota","pop":"884,659","Abb":"SD" },
+      "properties": { "name": "South Dakota","pop":"884659","Abb":"SD" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3688,7 +3688,7 @@
     {
       "type": "Feature",
       "id": "47",
-      "properties": { "name": "Tennessee","pop":"6,829,174","Abb":"TN"},
+      "properties": { "name": "Tennessee","pop":"6829174","Abb":"TN"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3743,7 +3743,7 @@
     {
       "type": "Feature",
       "id": "48",
-      "properties": { "name": "Texas","pop":"28,995,881","Abb":"TX"},
+      "properties": { "name": "Texas","pop":"28995881","Abb":"TX"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3907,7 +3907,7 @@
     {
       "type": "Feature",
       "id": "49",
-      "properties": { "name": "Utah" ,"pop":"3,205,958","Abb":"UT"},
+      "properties": { "name": "Utah" ,"pop":"3205958","Abb":"UT"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3931,7 +3931,7 @@
     {
       "type": "Feature",
       "id": "50",
-      "properties": { "name": "Vermont","pop":"623,989","Abb":"VT" },
+      "properties": { "name": "Vermont","pop":"623989","Abb":"VT" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3971,7 +3971,7 @@
     {
       "type": "Feature",
       "id": "51",
-      "properties": { "name": "Virginia" ,"pop":"8,535,519","Abb":"VA"},
+      "properties": { "name": "Virginia" ,"pop":"8535519","Abb":"VA"},
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4065,7 +4065,7 @@
     {
       "type": "Feature",
       "id": "53",
-      "properties": { "name": "Washington","pop":"7,614,893","Abb":"WA" },
+      "properties": { "name": "Washington","pop":"7614893","Abb":"WA" },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4159,7 +4159,7 @@
     {
       "type": "Feature",
       "id": "54",
-      "properties": { "name": "West Virginia","pop":"1,792,147","Abb":"WV" },
+      "properties": { "name": "West Virginia","pop":"1792147","Abb":"WV" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4236,7 +4236,7 @@
     {
       "type": "Feature",
       "id": "55",
-      "properties": { "name": "Wisconsin", "pop":"5,822,434","Abb":"WI" },
+      "properties": { "name": "Wisconsin", "pop":"5822434","Abb":"WI" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4323,7 +4323,7 @@
     {
       "type": "Feature",
       "id": "56",
-      "properties": { "name": "Wyoming","pop":"578,759","Abb":"WY" },
+      "properties": { "name": "Wyoming","pop":"578759","Abb":"WY" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
