@@ -1487,7 +1487,7 @@
     {
       "type": "Feature",
       "id": "08",
-      "properties": { "name": "Colorado" ,"pop":"5758736","Abb":"CO"},
+      "properties": { "name": "Colorado" ,"pop":"5758736","Abb":"CO","Type":"4"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1515,7 +1515,7 @@
     {
       "type": "Feature",
       "id": "09",
-      "properties": { "name": "Connecticut", "pop":"3565287","Abb":"CT"},
+      "properties": { "name": "Connecticut", "pop":"3565287","Abb":"CT","Type":"1"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
