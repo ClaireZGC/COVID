@@ -1289,7 +1289,7 @@
     {
       "type": "Feature",
       "id": "04",
-      "properties": { "name": "Arizona", "pop":"7278717","Abb":"AZ"},
+      "properties": { "name": "Arizona", "pop":"7278717","Abb":"AZ","Type":"4"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1333,7 +1333,7 @@
     {
       "type": "Feature",
       "id": "05",
-      "properties": { "name": "Arkansas","pop":"3017804","Abb":"AR" },
+      "properties": { "name": "Arkansas","pop":"3017804","Abb":"AR","Type":"4" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1382,7 +1382,7 @@
     {
       "type": "Feature",
       "id": "06",
-      "properties": { "name": "California", "pop":"39512223","Abb":"CA" },
+      "properties": { "name": "California", "pop":"39512223","Abb":"CA","Type":"2" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
