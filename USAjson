@@ -2454,7 +2454,7 @@
     {
       "type": "Feature",
       "id": "25",
-      "properties": { "name": "Massachusetts","pop":"6892503","Abb":"MA" },
+      "properties": { "name": "Massachusetts","pop":"6892503","Abb":"MA","Type":"4" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
